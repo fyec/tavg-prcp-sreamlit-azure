@@ -1,0 +1,8 @@
+streamlit
+gwosc==0.6.1
+gwpy==2.0.4
+matplotlib==3.4.2
+astropy==4.0.3
+numpy==1.22.0
+XlsxWriter
+glob2
